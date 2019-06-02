@@ -28,7 +28,7 @@ assicurarsi di utilizzare il file remoteApi.dll corretto (32/64 bit). Nel proget
 è presente quello a 64 bit. Il file a 32 bit è reperibile nella cartella:
 V-REP3\V-REP_PRO_EDU\programming\remoteApiBindings\lib\lib\Windows\32Bit
 
-2) Eseguire il file vrep_LSI e successivamente eseguire il progetto in 
+2) Eseguire prima il file vrep_LSI.ttt e successivamente eseguire il progetto in 
 Python.
 
 ###############################################################
