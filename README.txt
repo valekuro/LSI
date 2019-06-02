@@ -24,7 +24,7 @@ ricevente.
 WINDOWS:
 
 1) Dopo aver importato il progetto (è consigliabile usare PyCharm come IDE)
-assicurarsi di utilizzare il file remotAapi.dll corretto (32/64 bit). Nel progetto
+assicurarsi di utilizzare il file remoteApi.dll corretto (32/64 bit). Nel progetto
 è presente quello a 64 bit. Il file a 32 bit è reperibile nella cartella:
 V-REP3\V-REP_PRO_EDU\programming\remoteApiBindings\lib\lib\Windows\32Bit
 
